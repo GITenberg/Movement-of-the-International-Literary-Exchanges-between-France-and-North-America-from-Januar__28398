@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '33308'
     url: http://www.gutenberg.org/2009/agents/33308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28398#Movement-of-the-International-Literary-Exchanges-between-France-and-North-America-from-Januar_
 gutenberg_issued: '2009-03-24'
 gutenberg_type: Text
 identifiers:
