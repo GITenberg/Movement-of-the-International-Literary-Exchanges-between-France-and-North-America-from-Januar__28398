@@ -1,0 +1,42 @@
+_repo: Movement-of-the-International-Literary-Exchanges-between-France-and-North-America-from-Januar__28398
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Vattemare, Alexandre
+    aliases:
+    - Vattemare, Nicolas-Marie-Alexandre
+    - Vattemare, A. (Alexandre)
+    birthdate: 1796
+    deathdate: 1864
+    gutenberg_agent_id: '33307'
+    url: http://www.gutenberg.org/2009/agents/33307
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Geoffroy Saint-Hilaire, Isidore
+    alias: Saint-Hilaire, Isidore Geoffroy
+    birthdate: 1805
+    deathdate: 1861
+    gutenberg_agent_id: '33308'
+    url: http://www.gutenberg.org/2009/agents/33308
+description: ''
+gutenberg_issued: '2009-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28398'
+  lccn: 06043492
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Exchange of publications'
+title: "Movement of the International Literary Exchanges, between France and North\
+  \ America from January 1845 to May, 1846\r\nWith Instructions for Collecting, Preparing,\
+  \ and Forwarding Objects of Natural History Written by The Professors Administrators\
+  \ of The Museum Of Natural History At Paris. And Instructions Relative to Anthropology\
+  \ and Zoology"
+url: http://www.gutenberg.org/ebooks/28398
